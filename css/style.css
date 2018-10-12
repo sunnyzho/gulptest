@@ -1,0 +1,101 @@
+.container-fulid{
+	width: 600px;
+	height: 700px;
+	margin:80px auto;
+	background:#eee4da;
+}
+.hearder{
+	display:flex;
+	padding-bottom:10px;
+	margin-left:50px;
+}
+.game{
+	font-family:微软雅黑;
+	font-size:70px;
+	color:#776e65;
+}
+.row1{
+	display:flex;
+	margin-left:140px;
+	margin-top: 20px;
+}
+.score{
+	width:82px;
+	height:70px;
+	border-radius:6px;
+	background:#bbada0;
+	font:bold 16px 微软雅黑;
+	text-align:center;
+	color: #fff;
+}
+.s{
+	display:block;
+	font:bold 14px 微软雅黑;
+	padding-top:6px;
+}
+#score{
+	font-size:26px;
+	font-weight:bold;
+}
+.best{
+	width:82px;
+	height:70px;
+	border-radius:6px;
+	background:#bbada0;
+	font:bold 16px 微软雅黑;
+	text-align:center;
+	margin-left:10px;
+	color: #fff;
+}
+.b{
+	display:block;
+	font:bold 14px 微软雅黑;
+	padding-top:6px;
+}
+#best{
+	font-size:26px;
+	font-weight:bold;
+}
+.row2{
+	width:180px;
+	height:50px;
+	border-radius:6px;
+	background:#927963;
+	line-height:50px;
+	margin-left:140px;
+	margin-top:40px;
+	text-align:center;
+}
+#newGame{
+	font:bold 24px 微软雅黑;
+	color:#fff;
+	text-decoration:none;
+}
+#container{
+	width: 460px;
+	height: 460px;
+	padding:20px;
+	border-radius:10px;
+	background:#bbada0;
+	margin:0 auto;
+	position:relative;
+}
+.grid-cell{
+	width: 100px;
+	height: 100px;
+	border-radius:6px;
+	background:#ccc0b3;
+	position:absolute;
+}
+.number-cell{
+	width: 100px;
+	height: 100px;
+	border-radius:6px;
+	background:#ccc0b3;
+	position:absolute;
+	font:bold 40px 微软雅黑;
+	text-align:center;
+	line-height:100px;
+}
+
+
